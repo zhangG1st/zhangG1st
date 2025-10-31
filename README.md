@@ -13,7 +13,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws) 
  
 ## 📊 GitHub Analytics 
-![zhangG1st's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhangG1st&show_icons=true&theme=radical)(https://github.com/alexchen) 
+![zhangG1st's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhangG1st&show_icons=true&theme=radical)(https://github.com/zhangG1st) 
  
 ##  🌟 Featured Projects
 | Project | Description | Stars |
