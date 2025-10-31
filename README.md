@@ -19,11 +19,10 @@
 ##  🌟 Featured Projects
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [CodeSheet](https://github.com/zhangG1st/CodeSheet) | Real-time object detection framework | ![Stars](https://img.shields.io/github/stars/zhangG1st/CodeSheet)  |
+| [CodeSheet](https://github.com/zhangG1st/CodeSheet) | Algorithm learning | ![Stars](https://img.shields.io/github/stars/zhangG1st/CodeSheet)  |
  
 ---
  
-> "Innovation distinguishes between a leader and a follower."  
-> — Steve Jobs 
+> "A craftman who wishes to do his work well must first sharpen his tools."  
  
 </div>
