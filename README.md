@@ -1,5 +1,6 @@
 <!-- 顶部横幅图（可选） -->
-![header]([https://github.com/zhangG1st/zhangG1st/blob/main/assets/banner.gif](https://avatars.githubusercontent.com/u/68996079?v=4)
+![header](https://avatars.githubusercontent.com/u/68996079?v=4)
+
  
 #  👨‍💻 Hi, I'm Geng Zhang!
  
