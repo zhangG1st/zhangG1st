@@ -13,12 +13,12 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws) 
  
 ## 📊 GitHub Analytics 
-![zhangG1st's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhangG1st&show_icons=true&theme=radical)(https://github.com/zhangG1st) 
+![zhangG1st's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhangG1st&show_icons=true&theme=radical)
  
 ##  🌟 Featured Projects
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [CodeSheet]([链接](https://github.com/zhangG1st/CodeSheet)) | Real-time object detection framework | ![Stars](https://img.shields.io/github/stars/alexchen/deepvision)  |
+| [CodeSheet](https://github.com/zhangG1st/CodeSheet) | Real-time object detection framework | ![Stars](https://img.shields.io/github/stars/zhangG1st/CodeSheet)  |
  
 ---
  
