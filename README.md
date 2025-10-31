@@ -10,7 +10,7 @@
  
 ## ️ Tech Stack 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus) 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
  
 ## 📊 GitHub Analytics 
