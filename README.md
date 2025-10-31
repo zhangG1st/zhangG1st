@@ -4,13 +4,13 @@
 ![header](https://avatars.githubusercontent.com/u/68996079?v=4)
 
  
-#  👨‍💻 Hi, I'm Geng Zhang!
+#  Hi, I'm Geng Zhang!
  
 ---
  
 ## ️ Tech Stack 
 ![C++](https://simpleicons.org/simpleicons/00599C) 
-![Vue](https://simpleicons.org/simpleicons/4FC08D)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
  
 ## 📊 GitHub Analytics 
