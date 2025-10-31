@@ -16,13 +16,10 @@
 ##  🌟 Featured Projects
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [DeepVision](链接) | Real-time object detection framework | ![Stars](https://img.shields.io/github/stars/alexchen/deepvision)  |
+| [CodeSheet]([链接](https://github.com/zhangG1st/CodeSheet)) | Real-time object detection framework | ![Stars](https://img.shields.io/github/stars/alexchen/deepvision)  |
  
 ---
  
 > "Innovation distinguishes between a leader and a follower."  
 > — Steve Jobs 
  
-📫 **Reach me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Chen-blue)( 链接)
-[![Twitter](https://img.shields.io/badge/Twitter-@alex_dev-1DA1F2)( 链接)
