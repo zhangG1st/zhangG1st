@@ -1,3 +1,5 @@
+<div align="center">
+
 <!-- 顶部横幅图（可选） -->
 ![header](https://avatars.githubusercontent.com/u/68996079?v=4)
 
@@ -7,10 +9,9 @@
 ---
  
 ## ️ Tech Stack 
-![C++](https://simpleicons.org/#00599C) 
-![Vue](https://simpleicons.org/#4FC08D)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws) 
+![C++](https://simpleicons.org/simpleicons/00599C) 
+![Vue](https://simpleicons.org/simpleicons/4FC08D)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
  
 ## 📊 GitHub Analytics 
 ![zhangG1st's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhangG1st&show_icons=true&theme=radical)
@@ -25,3 +26,4 @@
 > "Innovation distinguishes between a leader and a follower."  
 > — Steve Jobs 
  
+</div>
