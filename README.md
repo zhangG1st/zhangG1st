@@ -24,6 +24,7 @@
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [CodeSheet](https://github.com/zhangG1st/CodeSheet) | Algorithm learning | ![Stars](https://img.shields.io/github/stars/zhangG1st/CodeSheet)  |
+| [GameAuxiliaryScript](https://github.com/zhangG1st/GameAuxiliaryScript) | Algorithm learning | ![Stars](https://img.shields.io/github/stars/zhangG1st/GameAuxiliaryScript)  |
  
 <br/>
 <br/>
